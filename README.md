@@ -84,6 +84,8 @@ echo "===================================================="
 ▶️ How to Run
 
 ```bash
+git clone https://github.com/ranasen-rat/Installing-Docker-on-Kali-Linux.git
+cd Installing-Docker-on-Kali-Linux
 chmod +x install_docker_kali.sh
 sudo ./install_docker_kali.sh
 ```
